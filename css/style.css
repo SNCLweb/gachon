@@ -448,6 +448,22 @@ img.thumb_medium03:hover {
 }
 
 
+.news3{
+
+		border: 1px solid #dbdbdb;
+		padding: 5px;
+		margin: 20px;
+		width: 360px;
+		height: 180px;
+
+
+}
+
+.news3:hover{
+	 box-shadow: 0 0 2px 2px #e2e2e2;
+}
+
+
 
 
 hr {
